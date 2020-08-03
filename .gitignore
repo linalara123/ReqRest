@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+history/ 
+logs/
+out/
+target/
+*.xml
